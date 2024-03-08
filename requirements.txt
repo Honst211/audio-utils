@@ -3,3 +3,5 @@ scipy
 librosa
 matplotlib
 click
+modelscope
+tqdm
